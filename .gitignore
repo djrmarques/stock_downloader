@@ -1,4 +1,5 @@
 env
-.vscode/settings.json
+.vscode/
 *.pyc
 output.csv
+scratch.ipynb
