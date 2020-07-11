@@ -22,8 +22,8 @@ class GetTickers:
     def save_file(self) -> None:
         """ Saves the tickers into the file """
         with open(self.output_file_name, "w") as f:
-            f.write("\n".join(self.tickers_list))
-        print("Writen to file")
+            f.write(";".join(self.tickers_list))
+        print(f"Writen to file {len(self.tickers_list)} tickers")
 
     def get_tickers(self):
 
