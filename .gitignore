@@ -1,5 +1,5 @@
 env
 .vscode/
 *.pyc
-output.csv
 scratch.ipynb
+*.txt
