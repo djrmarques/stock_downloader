@@ -3,3 +3,6 @@ env
 *.pyc
 scratch.ipynb
 *.txt
+stock_data/*
+*.csv
+*.zip

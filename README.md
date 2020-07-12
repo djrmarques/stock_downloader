@@ -15,3 +15,8 @@ GetTickers(url).get_tickers()
 ```
 
 Then, just run the the download_price_data.py script to downloads the historical data. This will create a folder with the dataframes of the historical data.
+
+# TODO
+
+- [ ] Turn this into a proper package
+- [ ] Put package on pipy
